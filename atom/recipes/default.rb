@@ -20,3 +20,5 @@ end
 package '/tmp/atom.rpm' do
 	action :install
 end
+
+
